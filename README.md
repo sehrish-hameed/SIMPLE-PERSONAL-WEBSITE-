@@ -1,10 +1,12 @@
 Telecommunications Engineer with a focus on continuous learning in Generative AI, IoT, Python, HTML, and CSS.
+
           Skills:
 Telecommunications Engineering
 Generative AI
 IoT
 Python
 HTML & CSS
+
           Projects:
 Personal Website
 Designed a simplex personal website using HTML and CSS to showcase my skills, projects, and experiences.
